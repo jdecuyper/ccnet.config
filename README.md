@@ -1,5 +1,3 @@
-#CCNET.CONFIG 
-
 ## Trigger, task and exec (`ccnet.a.config`)
 Build is launched only if a change is detected in the SVN repository.
 Use the SVN executable to commit and update files from a working copy on the server.
